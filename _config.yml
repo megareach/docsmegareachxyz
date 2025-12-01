@@ -1,0 +1,54 @@
+# Jekyll configuration for GitHub Pages
+title: MegaReach Documentation
+description: The Ultimate Social Growth Platform - AI-powered engagement and blockchain rewards
+theme: jekyll-theme-minimal
+baseurl: "" # Leave empty if using custom domain
+url: "https://docs.megareach.xyz" # Your custom domain
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Getting Started
+    url: /docs/getting-started
+  - title: Features
+    url: /docs/features/overview
+  - title: API
+    url: /docs/api/
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Include/Exclude
+include:
+  - docs
+  - README.md
+  - index.md
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:path
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "docs"
+      type: "pages"
+    values:
+      layout: "default"
