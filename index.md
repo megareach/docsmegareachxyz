@@ -1,8 +1,3 @@
----
-layout: home
-title: MegaReach Documentation
----
-
 # MegaReach Documentation
 
 ## Welcome to MegaReach - The Ultimate Social Growth Platform
@@ -42,10 +37,10 @@ MegaReach is a social media growth and engagement platform built on MegaETH bloc
 - Build authentic relationships at scale
 
 ### 🎨 For Creators
-- Monetize your content automatically
-- Grow your audience with AI assistance
-- Access brand partnership opportunities
-- Earn through multiple revenue streams
+- Win brand contracts and earn money
+- Keep 80-90% of your earnings
+- AI-powered brand matching
+- Secure payment processing
 
 ## Platform Status
 
