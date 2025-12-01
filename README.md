@@ -2,7 +2,7 @@
 
 ## Welcome to MegaReach - The Ultimate Social Growth Platform
 
-MegaReach is a revolutionary AI-powered social media growth and engagement platform built on MegaETH blockchain. We combine cutting-edge AI technology with automated engagement tools to help users, brands, and creators maximize their social presence and monetization opportunities.
+MegaReach is a social media growth and engagement platform built on MegaETH blockchain. We combine LLM reasoning  with  engagement tools to help users, brands, and creators maximize their social presence and monetization opportunities.
 
 ## Quick Navigation
 
@@ -17,16 +17,16 @@ MegaReach is a revolutionary AI-powered social media growth and engagement platf
 
 ### 🚀 Key Features
 
-- **ReplyGuy AI** - Intelligent automated reply system
+- **ReplyGuy** - Intelligent automated reply system
 - **MegaBoost** - Automatic tweet boosting with subscription model
 - **Real-Time Monitoring** - 24/7 social media tracking
-- **AI-Powered Scoring** - Smart content filtering and relevance detection
+- **Scoring** - Smart content filtering and relevance detection
 - **Automated Workflows** - Trigger-based actions and rewards
 - **MegaETH Integration** - Blockchain-powered rewards and transactions
 
 ### 🎯 For Users
 - Grow your social presence automatically
-- Engage with relevant content using AI
+- Engage with relevant content 
 - Earn rewards through the platform
 - Access premium features with subscriptions
 
@@ -44,7 +44,7 @@ MegaReach is a revolutionary AI-powered social media growth and engagement platf
 
 ## Platform Status
 
-🟢 **Live on MegaETH** - [app.megareach.xyz](https://app.megareach.xyz)
+🟢 **Live on MegaETH** - [www.megareach.xyz](https://www.megareach.xyz)
 
 ## Support
 
