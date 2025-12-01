@@ -18,66 +18,9 @@ Before starting, ensure you have:
    - Go to [app.megareach.xyz](https://app.megareach.xyz)
    - Click "Get Started" button
 
-2. **Choose Sign-Up Method**
-   - Email & Password
-   - Google OAuth
-   - Twitter/X OAuth
-   - Wallet Connect (Web3)
 
-3. **Complete Registration**
-   ```
-   Required Information:
-   - Username (unique)
-   - Email address
-   - Password (min 8 characters)
-   - Agree to Terms of Service
-   ```
 
-4. **Verify Email**
-   - Check inbox for verification email
-   - Click verification link
-   - Return to dashboard
-
-## Step 2: Profile Configuration
-
-### Basic Information
-
-Set up your MegaReach profile:
-
-```yaml
-Profile Settings:
-  Display Name: Your Name/Brand
-  Bio: Short description (160 chars)
-  Avatar: Upload profile picture
-  Cover Image: Optional banner
-  Website: Your main website
-  Location: Optional
-  Timezone: For scheduling
-```
-
-### Preferences
-
-Configure platform preferences:
-
-**Language & Region**
-- Primary language
-- Secondary languages
-- Regional settings
-- Currency preference
-
-**Notifications**
-- Email notifications
-- SMS alerts (optional)
-- Push notifications
-- In-app alerts
-
-**Privacy**
-- Profile visibility
-- Data sharing options
-- Analytics sharing
-- API access
-
-## Step 3: Social Account Connection
+## Step 1: Social Account Connection
 
 ### Connecting Twitter/X
 
@@ -104,6 +47,34 @@ Configure platform preferences:
    - Select main account
    - Configure posting defaults
    - Set engagement limits
+
+
+## Step 2: Profile Configuration
+
+### Basic Information
+
+Set up your MegaReach profile:
+
+```yaml
+Profile Settings:
+  Display Name: Your Name/Brand
+  Bio: Short description (160 chars)
+  Avatar: Upload profile picture
+  Cover Image: Optional banner
+  Website: Your main website
+  Location: Optional
+  Timezone: For scheduling
+```
+
+### Preferences
+
+Configure platform preferences:
+
+**Notifications**
+- Email notifications
+- Push notifications
+- In-app alerts
+
 
 ### Multiple Account Management
 
@@ -231,10 +202,7 @@ For developer access:
 Connect blockchain wallet:
 
 1. **Supported Wallets**
-   - MetaMask
-   - WalletConnect
-   - Coinbase Wallet
-   - Rainbow
+   - Megaeth
 
 2. **Connection Process**
    ```
@@ -254,19 +222,7 @@ Connect blockchain wallet:
    }
    ```
 
-### Token Setup
 
-Configure $MEGA tokens:
-
-1. **Add Token to Wallet**
-   - Contract: `0xMEGA...`
-   - Symbol: MEGA
-   - Decimals: 18
-
-2. **Initial Balance**
-   - Claim welcome bonus
-   - Purchase tokens
-   - Earn through activity
 
 ## Step 7: Initial Configuration
 
@@ -335,8 +291,7 @@ Evaluate options:
 
 1. **Add Payment Method**
    - Credit/debit card
-   - PayPal
-   - Crypto ($MEGA, ETH)
+   - Crypto ($USDm, ETH)
 
 2. **Billing Configuration**
    - Monthly or annual
@@ -351,7 +306,7 @@ For business accounts:
 
 1. **Invite Members**
    - Settings → Team
-   - Enter email addresses
+   - Enter X handle
    - Set roles and permissions
 
 2. **Role Assignment**
@@ -370,21 +325,6 @@ For business accounts:
    | Analytics | ✓ | ✓ | ✓ | ✗ |
    | Content | ✓ | ✓ | ✗ | ✓ |
 
-## Step 10: Verification & Testing
-
-### Account Verification
-
-Complete verification:
-
-1. **Identity Verification** (for monetization)
-   - Upload ID
-   - Verify phone number
-   - Confirm address
-
-2. **Platform Verification**
-   - Link verified accounts
-   - Build reputation score
-   - Earn trust badges
 
 ### Test Configuration
 
