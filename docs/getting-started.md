@@ -8,16 +8,15 @@ Welcome to MegaReach! This guide will help you get up and running with our AI-po
 - [Core Concepts](#core-concepts)
 - [First Steps](#first-steps)
 - [Platform Features](#platform-features)
-- [Subscription Tiers](#subscription-tiers)
 
 ## What is MegaReach?
 
 MegaReach is an advanced social media automation platform that leverages AI to help you:
-- 🤖 Automatically engage with relevant content (ReplyGuy)
-- 🚀 Boost all your tweets automatically (MegaBoost)
-- 📊 Monitor social mentions and keywords 24/7
-- 💰 Earn rewards through MegaETH blockchain integration
-- 🎯 Grow your audience with intelligent targeting
+- Automatically engage with relevant content (ReplyGuy)
+- Boost all your tweets automatically (MegaBoost)
+- Monitor social mentions and keywords 24/7
+- Earn rewards through MegaETH blockchain integration
+- Grow your audience with intelligent targeting
 
 ## Quick Start
 
