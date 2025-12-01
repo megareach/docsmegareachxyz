@@ -2,17 +2,6 @@
 
 MegaReach combines advanced AI technology with blockchain integration to deliver a comprehensive social growth platform. Here's everything our platform offers.
 
-## Core Features Matrix
-
-| Feature | Description | Availability |
-|---------|-------------|--------------|
-| **ReplyGuy** | AI-powered automated replies | All Plans |
-| **MegaBoost** | Automatic tweet amplification | All Plans |
-| **Monitoring** | Real-time social tracking | All Plans |
-| **Analytics** | Performance insights | All Plans |
-| **Workflows** | Automated actions | Growth+ |
-| **API Access** | Developer integration | Pro+ |
-| **Blockchain** | $MEGA rewards & staking | All Plans |
 
 ## 🤖 AI-Powered Features
 
